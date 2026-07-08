@@ -30,6 +30,12 @@
     <img src="https://skillicons.dev/icons?i=docker,apple,vscode" /><br>
 </div>
 
+## Personnal Favourites
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma,wordpress,apple,vscode" /><br>
+</div>
+
 ## Selected work
 
 | Project | What it is | Built with |
