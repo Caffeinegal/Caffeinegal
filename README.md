@@ -25,8 +25,9 @@
 ## Stack
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma,vscode,github,git,wordpress" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,php,laravel,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma,github,git,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,php,laravel,mysql,ruby" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,apple,vscode" /><br>
 </div>
 
 ## Selected work
