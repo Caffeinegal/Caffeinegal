@@ -18,7 +18,7 @@
 ## About
 
 - 🎓 Fullstack web development student @ **EPITECH Web@cadémie** (Paris, promo 2027)
-- 🔍 Looking for a **one-year alternance starting September 2026**
+- 🔍 Looking for a **ONE-YEAR ALTERNANCE STARTING SEPTEMBER 2026** 
 - 🎨 Design-minded developer — I care as much about the pixel as the query behind it
 - 🌱 Currently deepening **TypeScript** and **Next.js**
 
@@ -41,7 +41,7 @@
 
 ## Beyond the code
 
-Certified ikebana practitioner (Sôgetsu school) 🌿 · film photography 📷 · specialty coffee — hence the handle ☕
+Certified Ikebana Practitioner (Sôgetsu School) · Photography · Specialty Coffee — hence the handle ☕
 
 <br />
 
