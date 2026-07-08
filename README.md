@@ -27,13 +27,13 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma,github,git,wordpress" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,php,laravel,mysql,ruby" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,apple,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=ai,docker,apple,vscode" /><br>
 </div>
 
 ## Personnal Favourites
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma,wordpress,apple,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma,wordpress,apple,ai,vscode" /><br>
 </div>
 
 ## Selected work
