@@ -18,7 +18,6 @@
 ## About
 
 - 🎓 Fullstack web development student @ **EPITECH Web@cadémie** (Paris, promo 2027)
-- 🔍 Looking for a **ONE-YEAR ALTERNANCE STARTING SEPTEMBER 2026** 
 - 🎨 Design-minded developer — I care as much about the pixel as the query behind it
 - 🌱 Currently deepening **TypeScript** and **Next.js**
 
